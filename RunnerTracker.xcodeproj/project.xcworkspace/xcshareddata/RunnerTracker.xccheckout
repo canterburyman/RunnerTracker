@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EEABCBFF-0322-4B25-B724-655C0059731F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RunnerTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>83BBFFBD-4353-4813-B7EB-6EA3601540CC</key>
+		<string>https://github.com/canterburyman/MyProjects.git</string>
+		<key>8505BC05-30A8-468E-9DBC-0F8A302A0719</key>
+		<string>https://github.com/canterburyman/RunnerTracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RunnerTracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>83BBFFBD-4353-4813-B7EB-6EA3601540CC</key>
+		<string>../../../../../src/MyProjects</string>
+		<key>8505BC05-30A8-468E-9DBC-0F8A302A0719</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/canterburyman/RunnerTracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8505BC05-30A8-468E-9DBC-0F8A302A0719</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8505BC05-30A8-468E-9DBC-0F8A302A0719</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RunnerTracker</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>83BBFFBD-4353-4813-B7EB-6EA3601540CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RunnerTracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
